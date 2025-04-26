@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Adjust this if your project is in a subdirectory (e.g. /myapp/)
+    RewriteBase /
+
+    RewriteRule ^.*$ index.php [QSA,L]
+</IfModule>

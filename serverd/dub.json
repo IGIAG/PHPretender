@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"igiag"
+	],
+	"copyright": "Copyright © 2025, igiag",
+	"dependencies": {
+		"asdf": "~>0.7.17"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "serverd"
+}
